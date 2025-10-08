@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {}
+    "W:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {}
   },
   "projects": {
-    "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {
+    "W:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
+        "projectUniqueName": "W:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
         "projectName": "MathQuizy",
-        "projectPath": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
-        "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\obj\\",
+        "projectPath": "W:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
+        "packagesPath": "C:\\Users\\iri2\\.nuget\\packages\\",
+        "outputPath": "W:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CAMPUSFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iri2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
