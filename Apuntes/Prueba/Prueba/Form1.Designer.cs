@@ -30,6 +30,7 @@
         {
             this.btnHola = new System.Windows.Forms.Button();
             this.lblSaludos = new System.Windows.Forms.Label();
+            this.userControl13 = new Prueba.UserControl1();
             this.userControl12 = new Prueba.UserControl1();
             this.userControl11 = new Prueba.UserControl1();
             this.SuspendLayout();
@@ -56,6 +57,15 @@
             this.lblSaludos.Text = "Ventana de saludos";
             this.lblSaludos.Click += new System.EventHandler(this.label1_Click);
             // 
+            // userControl13
+            // 
+            this.userControl13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.userControl13.Location = new System.Drawing.Point(477, 203);
+            this.userControl13.Mensaje = "llll";
+            this.userControl13.Name = "userControl13";
+            this.userControl13.Size = new System.Drawing.Size(311, 130);
+            this.userControl13.TabIndex = 4;
+            // 
             // userControl12
             // 
             this.userControl12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
@@ -81,6 +91,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.userControl13);
             this.Controls.Add(this.userControl12);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.lblSaludos);
@@ -98,6 +109,7 @@
         private System.Windows.Forms.Label lblSaludos;
         private UserControl1 userControl11;
         private UserControl1 userControl12;
+        private UserControl1 userControl13;
     }
 }
 

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:19:21.972Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
