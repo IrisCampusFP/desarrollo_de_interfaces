@@ -25,9 +25,5 @@ namespace DI_A1._8_Simulacro_AE1_CafeDigital2025
                 lblProducto.Text = nombreProducto; }
         }
 
-        private void lblProducto_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
