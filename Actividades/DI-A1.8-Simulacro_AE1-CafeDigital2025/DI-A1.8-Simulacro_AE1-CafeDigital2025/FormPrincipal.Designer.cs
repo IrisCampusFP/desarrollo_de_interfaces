@@ -57,6 +57,7 @@
             cartaToolStripMenuItem.Name = "cartaToolStripMenuItem";
             cartaToolStripMenuItem.Size = new Size(58, 24);
             cartaToolStripMenuItem.Text = "Carta";
+            cartaToolStripMenuItem.Click += cartaToolStripMenuItem_Click;
             // 
             // pedidosToolStripMenuItem
             // 
@@ -64,6 +65,7 @@
             pedidosToolStripMenuItem.Name = "pedidosToolStripMenuItem";
             pedidosToolStripMenuItem.Size = new Size(76, 24);
             pedidosToolStripMenuItem.Text = "Pedidos";
+            pedidosToolStripMenuItem.Click += pedidosToolStripMenuItem_Click;
             // 
             // label1
             // 
@@ -146,6 +148,7 @@
             Controls.Add(label1);
             Controls.Add(menuStrip1);
             Name = "FormPrincipal";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Café Digital 2025 - Iris Pérez";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();

@@ -189,6 +189,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FormPedido";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Pedidos - Café Digital 2025 - Iris Pérez";
             ResumeLayout(false);
             PerformLayout();

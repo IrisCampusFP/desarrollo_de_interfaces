@@ -112,6 +112,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FormCarta";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Carta - Café Digital 2025 - Iris Pérez";
             ResumeLayout(false);
             PerformLayout();
