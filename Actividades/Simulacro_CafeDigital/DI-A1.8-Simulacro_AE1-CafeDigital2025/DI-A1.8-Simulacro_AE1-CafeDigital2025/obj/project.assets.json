@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj",
+      "projectUniqueName": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj",
       "projectName": "DI-A1.8-Simulacro_AE1-CafeDigital2025",
-      "projectPath": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj",
+      "projectPath": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj",
       "packagesPath": "C:\\Users\\iri2\\.nuget\\packages\\",
-      "outputPath": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\obj\\",
+      "outputPath": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
