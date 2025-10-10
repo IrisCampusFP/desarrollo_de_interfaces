@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DI-A1.8-Simulacro_AE1-CafeDigital2025/1.0.0": {
+        "runtime": {
+          "DI-A1.8-Simulacro_AE1-CafeDigital2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DI-A1.8-Simulacro_AE1-CafeDigital2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

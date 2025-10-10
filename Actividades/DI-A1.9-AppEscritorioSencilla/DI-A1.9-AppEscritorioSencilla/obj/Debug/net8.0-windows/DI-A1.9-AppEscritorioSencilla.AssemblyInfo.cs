@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI-A1.9-AppEscritorioSencilla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f75936d8a4a80a8ce2dbb20846a229372bf642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ed3fd41046a7ed344ada1e6d1a90850a40e8cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI-A1.9-AppEscritorioSencilla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI-A1.9-AppEscritorioSencilla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

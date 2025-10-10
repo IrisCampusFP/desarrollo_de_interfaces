@@ -36,6 +36,7 @@
             btnHacerPedido = new Button();
             label2 = new Label();
             label3 = new Label();
+            elementoReutilizableProducto1 = new ElementoReutilizableProducto();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -46,7 +47,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { cartaToolStripMenuItem, pedidosToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(800, 28);
+            menuStrip1.Size = new Size(729, 28);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -71,9 +72,9 @@
             label1.ForeColor = Color.White;
             label1.Location = new Point(0, 28);
             label1.Name = "label1";
-            label1.Size = new Size(800, 84);
+            label1.Size = new Size(729, 84);
             label1.TabIndex = 1;
-            label1.Text = "CAFÉ DIGITAL 2025";
+            label1.Text = "☕ CAFÉ DIGITAL 2025";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btnVerCarta
@@ -81,30 +82,32 @@
             btnVerCarta.BackColor = Color.SlateBlue;
             btnVerCarta.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnVerCarta.ForeColor = Color.White;
-            btnVerCarta.Location = new Point(193, 232);
+            btnVerCarta.Location = new Point(162, 244);
             btnVerCarta.Name = "btnVerCarta";
             btnVerCarta.Size = new Size(201, 46);
             btnVerCarta.TabIndex = 4;
             btnVerCarta.Text = "📋 VER CARTA";
             btnVerCarta.UseVisualStyleBackColor = false;
+            btnVerCarta.Click += btnVerCarta_Click;
             // 
             // btnHacerPedido
             // 
             btnHacerPedido.BackColor = Color.SlateBlue;
             btnHacerPedido.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnHacerPedido.ForeColor = Color.White;
-            btnHacerPedido.Location = new Point(409, 232);
+            btnHacerPedido.Location = new Point(378, 244);
             btnHacerPedido.Name = "btnHacerPedido";
             btnHacerPedido.Size = new Size(201, 46);
             btnHacerPedido.TabIndex = 5;
             btnHacerPedido.Text = "\U0001f6d2 HACER PEDIDO";
             btnHacerPedido.UseVisualStyleBackColor = false;
+            btnHacerPedido.Click += btnHacerPedido_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(240, 139);
+            label2.Location = new Point(208, 146);
             label2.Name = "label2";
             label2.Size = new Size(329, 25);
             label2.TabIndex = 6;
@@ -114,18 +117,28 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(193, 175);
+            label3.Location = new Point(162, 188);
             label3.Name = "label3";
             label3.Size = new Size(417, 25);
             label3.TabIndex = 7;
             label3.Text = "Seleccione una opción del menú para comenzar";
+            // 
+            // elementoReutilizableProducto1
+            // 
+            elementoReutilizableProducto1.BackColor = Color.Transparent;
+            elementoReutilizableProducto1.Location = new Point(268, 315);
+            elementoReutilizableProducto1.Name = "elementoReutilizableProducto1";
+            elementoReutilizableProducto1.NombreProducto = "Café del Día";
+            elementoReutilizableProducto1.Size = new Size(194, 102);
+            elementoReutilizableProducto1.TabIndex = 8;
             // 
             // FormPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(192, 192, 255);
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(729, 450);
+            Controls.Add(elementoReutilizableProducto1);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(btnHacerPedido);
@@ -146,11 +159,11 @@
         private ToolStripMenuItem cartaToolStripMenuItem;
         private ToolStripMenuItem pedidosToolStripMenuItem;
         private Label label1;
-        private Label btnVerCarta;
-        private Label btnHacerPedido;
-        private Button button1;
+        private Button btnVerCarta;
         private Button btnHacerPedido;
+        private Button button1;
         private Label label2;
         private Label label3;
+        private ElementoReutilizableProducto elementoReutilizableProducto1;
     }
 }

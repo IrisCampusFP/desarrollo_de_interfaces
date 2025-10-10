@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI-A1.8-Simulacro_AE1-CafeDigital2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b61336b7a085732e95f66225ba6844ec3f1753f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ed3fd41046a7ed344ada1e6d1a90850a40e8cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI-A1.8-Simulacro_AE1-CafeDigital2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI-A1.8-Simulacro_AE1-CafeDigital2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

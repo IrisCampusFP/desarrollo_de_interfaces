@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|solutionrelative:prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|solutionrelative:prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|solutionrelative:prueba\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C539B85-3107-4D21-94D4-F759A2E465EC}|Prueba\\Prueba.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserControl1.cs",
               "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\UserControl1.cs",
               "RelativeDocumentMoniker": "Prueba\\UserControl1.cs",
               "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\UserControl1.cs",
               "RelativeToolTip": "Prueba\\UserControl1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T07:52:59.647Z",
               "EditorCaption": ""
@@ -63,8 +63,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs",
               "RelativeDocumentMoniker": "Prueba\\Form1.cs",
-              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs*",
-              "RelativeToolTip": "Prueba\\Form1.cs*",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs",
+              "RelativeToolTip": "Prueba\\Form1.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAEwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T07:30:25.213Z",
@@ -76,15 +76,15 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs",
               "RelativeDocumentMoniker": "Prueba\\Form1.cs",
-              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Prueba\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Prueba\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T07:20:15.927Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserControl1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Apuntes\\Prueba\\Prueba\\UserControl1.cs",
               "RelativeDocumentMoniker": "Prueba\\UserControl1.cs",
