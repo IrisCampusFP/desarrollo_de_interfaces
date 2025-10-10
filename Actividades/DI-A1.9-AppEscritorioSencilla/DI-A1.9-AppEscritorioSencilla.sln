@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI-A1.9-AppEscritorioSencilla", "DI-A1.9-AppEscritorioSencilla\DI-A1.9-AppEscritorioSencilla.csproj", "{62B7B922-4BF2-4446-A099-E98EDBF188BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B7B922-4BF2-4446-A099-E98EDBF188BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B7B922-4BF2-4446-A099-E98EDBF188BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B7B922-4BF2-4446-A099-E98EDBF188BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B7B922-4BF2-4446-A099-E98EDBF188BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E274115C-FDCC-47C5-A6E8-F584AC7C7EDC}
+	EndGlobalSection
+EndGlobal

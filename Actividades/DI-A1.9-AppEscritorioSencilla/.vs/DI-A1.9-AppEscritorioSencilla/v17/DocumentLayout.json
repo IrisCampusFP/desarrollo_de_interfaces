@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.9-appescritoriosencilla\\di-a1.9-appescritoriosencilla\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.9-appescritoriosencilla\\di-a1.9-appescritoriosencilla\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.9-appescritoriosencilla\\di-a1.9-appescritoriosencilla\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.9-appescritoriosencilla\\di-a1.9-appescritoriosencilla\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.9-appescritoriosencilla\\di-a1.9-appescritoriosencilla\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\di-a1.9-appescritoriosencilla\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62B7B922-4BF2-4446-A099-E98EDBF188BE}|DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla.csproj|solutionrelative:di-a1.9-appescritoriosencilla\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSecundario.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:55:13.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSecundario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\FormSecundario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:53:40.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:48:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosUsuarioControl.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:43:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosUsuarioControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\DatosUsuarioControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:38:27.242Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.9-AppEscritorioSencilla\\DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9-AppEscritorioSencilla\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:37:49.59Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

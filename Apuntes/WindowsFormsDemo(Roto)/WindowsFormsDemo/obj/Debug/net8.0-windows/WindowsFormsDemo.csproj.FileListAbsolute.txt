@@ -1,0 +1,8 @@
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.Form1.resources
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.UserControl1.resources
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.csproj.GenerateResource.cache
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.AssemblyInfoInputs.cache
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.AssemblyInfo.cs
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\REPOS\desarrollo_de_interfaces\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\net8.0-windows\WindowsFormsDemo.sourcelink.json
