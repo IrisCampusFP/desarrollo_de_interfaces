@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             timeLabel = new Label();
             label1 = new Label();
             plusLeftLabel = new Label();
@@ -51,6 +52,7 @@
             label12 = new Label();
             dividedLeftLabel = new Label();
             startButton = new Button();
+            timer1 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)sumar).BeginInit();
             ((System.ComponentModel.ISupportInitialize)difference).BeginInit();
             ((System.ComponentModel.ISupportInitialize)product).BeginInit();
@@ -124,6 +126,8 @@
             sumar.Name = "sumar";
             sumar.Size = new Size(100, 39);
             sumar.TabIndex = 1;
+            sumar.Click += answer_Enter;
+            sumar.Enter += answer_Enter;
             // 
             // difference
             // 
@@ -133,6 +137,8 @@
             difference.Name = "difference";
             difference.Size = new Size(100, 39);
             difference.TabIndex = 2;
+            difference.Click += answer_Enter;
+            difference.Enter += answer_Enter;
             // 
             // label3
             // 
@@ -182,6 +188,8 @@
             product.Name = "product";
             product.Size = new Size(100, 39);
             product.TabIndex = 3;
+            product.Click += answer_Enter;
+            product.Enter += answer_Enter;
             // 
             // label5
             // 
@@ -231,6 +239,8 @@
             quotient.Name = "quotient";
             quotient.Size = new Size(100, 39);
             quotient.TabIndex = 4;
+            quotient.Click += answer_Enter;
+            quotient.Enter += answer_Enter;
             // 
             // label10
             // 
@@ -282,6 +292,12 @@
             startButton.TabIndex = 0;
             startButton.Text = "Iniciar la prueba";
             startButton.UseVisualStyleBackColor = true;
+            startButton.Click += startButton_Click;
+            // 
+            // timer1
+            // 
+            timer1.Interval = 1000;
+            timer1.Tick += timer1_Tick;
             // 
             // Form1
             // 
@@ -348,5 +364,6 @@
         private Label label12;
         private Label dividedLeftLabel;
         private Button startButton;
+        private System.Windows.Forms.Timer timer1;
     }
 }

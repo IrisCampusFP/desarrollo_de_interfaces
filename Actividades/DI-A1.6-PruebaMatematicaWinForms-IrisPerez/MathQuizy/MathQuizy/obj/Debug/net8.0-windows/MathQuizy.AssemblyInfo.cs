@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathQuizy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0547ccb128307672f20758d1c49f2b8562b1cbd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c071c3e8b6ad1b196583c564eebb5e0f403af6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathQuizy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathQuizy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

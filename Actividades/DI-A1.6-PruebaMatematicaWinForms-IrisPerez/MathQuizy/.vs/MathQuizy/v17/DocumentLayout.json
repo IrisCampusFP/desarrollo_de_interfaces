@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\",
+  "WorkspaceRootPath": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|c:\\repos\\desarrollo_de_interfaces\\di-a1.6-pruebamatematicawinforms-irisperez\\mathquizy\\mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|solutionrelative:mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.6-pruebamatematicawinforms-irisperez\\mathquizy\\mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|solutionrelative:mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|c:\\repos\\desarrollo_de_interfaces\\di-a1.6-pruebamatematicawinforms-irisperez\\mathquizy\\mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|solutionrelative:mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.6-pruebamatematicawinforms-irisperez\\mathquizy\\mathquizy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|solutionrelative:mathquizy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\di-a1.6-pruebamatematicawinforms-irisperez\\mathquizy\\mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80011B06-45E5-455A-A4CC-0C77758C399B}|MathQuizy\\MathQuizy.csproj|solutionrelative:mathquizy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,23 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MathQuizy\\Form1.Designer.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.Designer.cs",
+              "RelativeToolTip": "MathQuizy\\Form1.Designer.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAawCsBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:04:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
               "RelativeDocumentMoniker": "MathQuizy\\Form1.cs",
-              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
               "RelativeToolTip": "MathQuizy\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwJoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T07:15:29.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs",
               "RelativeDocumentMoniker": "MathQuizy\\Form1.cs",
-              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "MathQuizy\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T12:19:55.809Z",

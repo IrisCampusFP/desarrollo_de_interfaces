@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {}
+    "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {}
   },
   "projects": {
-    "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {
+    "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
+        "projectUniqueName": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
         "projectName": "MathQuizy",
-        "projectPath": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
+        "projectPath": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\MathQuizy.csproj",
         "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\desarrollo_de_interfaces\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\obj\\",
+        "outputPath": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.6-PruebaMatematicaWinForms-IrisPerez\\MathQuizy\\MathQuizy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
