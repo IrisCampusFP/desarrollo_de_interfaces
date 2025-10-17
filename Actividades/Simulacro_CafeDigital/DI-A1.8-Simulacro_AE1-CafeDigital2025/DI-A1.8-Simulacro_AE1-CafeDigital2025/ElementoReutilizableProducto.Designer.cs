@@ -60,7 +60,6 @@
             lblProducto.Size = new Size(125, 84);
             lblProducto.TabIndex = 2;
             lblProducto.TextAlign = ContentAlignment.MiddleCenter;
-            lblProducto.Click += lblProducto_Click;
             // 
             // ElementoReutilizableProducto
             // 

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\componentereutilizabledestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\componentereutilizabledestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\ae1_di_irisperezaparicio\\componentereutilizabledestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\componentereutilizabledestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\componentereutilizabledestino.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\componentereutilizabledestino.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\ae1_di_irisperezaparicio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\ae1_di_irisperezaparicio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\ae1_di_irisperezaparicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|c:\\repos\\desarrollo_de_interfaces\\examenes\\ae1_di_irisperezaparicio\\ae1_di_irisperezaparicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA50A8-B66B-4F8A-B608-45921DC2DF0F}|AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio.csproj|solutionrelative:ae1_di_irisperezaparicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComponenteReutilizableDestino.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:04:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponenteReutilizableDestino.Designer.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.Designer.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.Designer.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.Designer.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:04:12.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOfertas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormOfertas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormOfertas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:47:02.963Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReservas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormReservas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormReservas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:42:45.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOfertas.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormOfertas.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA9wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:32:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReservas.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormReservas.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:37:34.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponenteReutilizableDestino.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\ComponenteReutilizableDestino.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:06:02.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDestinos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormDestinos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormDestinos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:43:33.679Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:25:50.519Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDestinos.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\FormDestinos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:37:16.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "RelativeDocumentMoniker": "AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Examenes\\AE1_DI_IrisPerezAparicio\\AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "RelativeToolTip": "AE1_DI_IrisPerezAparicio\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:27:28.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

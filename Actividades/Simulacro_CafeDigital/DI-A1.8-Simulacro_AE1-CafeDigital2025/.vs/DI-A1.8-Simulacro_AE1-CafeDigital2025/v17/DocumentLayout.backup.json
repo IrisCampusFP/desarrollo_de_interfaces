@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\",
+  "WorkspaceRootPath": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|w:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|w:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|w:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|w:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|w:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|c:\\repos\\desarrollo_de_interfaces\\actividades\\simulacro_cafedigital\\di-a1.8-simulacro_ae1-cafedigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\elementoreutilizableproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEC55AE5-5199-421E-AC83-02CDAE909E2B}|DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025.csproj|solutionrelative:di-a1.8-simulacro_ae1-cafedigital2025\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,30 +46,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormCarta.cs",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
-              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
-              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "ElementoReutilizableProducto.Designer.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.Designer.cs",
+              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.Designer.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.Designer.cs",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAnwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:41:11.977Z",
+              "WhenOpened": "2025-10-17T07:13:19.421Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementoReutilizableProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:13:01.334Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormPedido.cs",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
               "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
               "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T13:39:33.037Z",
               "EditorCaption": ""
@@ -74,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
               "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,58 +101,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ElementoReutilizableProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:33:58.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormPedido.cs [Dise\u00F1o]",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
               "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPedido.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T12:49:22.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FormCarta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
               "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T12:29:45.775Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T12:29:45.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ElementoReutilizableProducto.cs",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FormCarta.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
+              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormCarta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:16:00.139Z"
+              "WhenOpened": "2025-10-10T13:41:11.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ElementoReutilizableProducto.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "ToolTip": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "RelativeToolTip": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\ElementoReutilizableProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:16:00.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\REPOS\\desarrollo_de_interfaces\\Actividades\\Simulacro_CafeDigital\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs",
               "ToolTip": "W:\\REPOS\\desarrollo_de_interfaces\\Actividades\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\DI-A1.8-Simulacro_AE1-CafeDigital2025\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T09:21:04.199Z"
             }

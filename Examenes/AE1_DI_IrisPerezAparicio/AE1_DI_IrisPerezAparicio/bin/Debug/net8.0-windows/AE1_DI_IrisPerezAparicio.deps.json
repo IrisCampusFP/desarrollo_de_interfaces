@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AE1_DI_IrisPerezAparicio/1.0.0": {
+        "runtime": {
+          "AE1_DI_IrisPerezAparicio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AE1_DI_IrisPerezAparicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
