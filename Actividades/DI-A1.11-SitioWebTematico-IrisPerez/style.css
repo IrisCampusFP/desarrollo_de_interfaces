@@ -1,0 +1,295 @@
+/* Reset básico */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f7f7fa;
+  color: #222;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Barra de navegación tipo tabs */
+.tabs {
+  display: flex;
+  justify-content: center;
+  background: #232946;
+  padding: 0.5rem 0;
+}
+.tab {
+  color: #fffffe;
+  padding: 0.7rem 2rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid transparent;
+  transition: background 0.2s, border-bottom 0.2s;
+  font-size: 1rem;
+}
+.tab span {
+  margin-right: 0.5rem;
+  font-size: 1.3em;
+}
+.tab.active, .tab:hover {
+  background: #393e6e;
+  border-bottom: 2px solid #f6c90e;
+}
+.tab-text { display: none; }
+@media (min-width: 600px) { .tab-text { display: inline; } }
+
+header {
+  text-align: center;
+  background: #fff;
+  padding: 2rem 1rem 1rem 1rem;
+  box-shadow: 0 2px 8px #23294611;
+}
+
+h1 { color: #232946; margin-bottom: 0.5rem; }
+h2, h3 { color: #393e6e; margin-bottom: 0.5rem; }
+
+.search-filter {
+  margin: 1rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.search-filter input, .search-filter select, .search-filter button {
+  padding: 0.4rem 0.7rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.search-filter button {
+  background: #f6c90e;
+  border: none;
+  color: #232946;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Lista de eventos */
+.eventos-lista {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Tarjeta de evento */
+.evento {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 10px #23294612;
+  overflow: hidden;
+  transition: transform 0.12s;
+  min-height: 420px;
+}
+.evento:hover {
+  transform: translateY(-6px) scale(1.025);
+  box-shadow: 0 4px 18px #23294625;
+}
+.evento img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  border-bottom: 1px solid #eee;
+  background: #ddd;
+  min-height: 200px;
+  max-height: 250px;
+}
+
+.evento-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 1.3rem 1.2rem;
+  background: #fff;
+  min-height: 180px;
+}
+
+.evento-info h2 { 
+  font-size: 1.2rem; 
+  margin-bottom: 0.3rem; 
+  font-weight: 700;
+}
+.evento-info .categoria { 
+  color: #f6c90e; 
+  font-weight: bold; 
+  margin-bottom: 0.1rem;
+}
+.evento-info .descripcion { 
+  margin: 0.3rem 0 0.5rem 0; 
+  font-size: 1.02em;
+}
+.evento-info .dato { 
+  font-size: 0.97em; 
+  color: #393e6e; 
+  margin-bottom: 0.7rem; 
+}
+.btn-detalles {
+  display: inline-block;
+  background: #232946;
+  color: #fff;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.2s;
+  margin-top: auto;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.btn-detalles:hover { background: #f6c90e; color: #232946; }
+
+/* Página de detalles */
+.detalles-evento {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px #23294612;
+  max-width: 700px;
+  margin: 2rem auto 1rem auto;
+  padding: 1rem;
+}
+.detalles-evento img {
+  width: 100%;
+  max-width: 320px;
+  aspect-ratio: 16/9;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  background: #ddd;
+}
+.detalles-evento > div {
+  text-align: center;
+}
+.formulario-reserva {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px #23294612;
+  max-width: 700px;
+  margin: 1rem auto 2rem auto;
+  padding: 1rem 2rem;
+}
+.formulario-reserva form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+.formulario-reserva label { font-weight: 500; }
+.formulario-reserva input {
+  padding: 0.5rem;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+.formulario-reserva button {
+  background: #232946;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.6rem 0;
+  font-size: 1.1em;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.formulario-reserva button:hover { background: #f6c90e; color: #232946; }
+.formulario-reserva .nota { font-size: 0.9em; color: #777; }
+
+.ofertas {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px #23294612;
+  max-width: 700px;
+  margin: 2rem auto 1rem auto;
+  padding: 1.5rem;
+}
+.ofertas ul { margin-left: 1.2rem; }
+.ofertas li { margin-bottom: 0.7rem; font-size: 1.08em; }
+
+.galeria {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px #23294612;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem;
+}
+.galeria h2 {
+  margin-bottom: 1rem;
+}
+.galeria-imagenes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+  margin-top: 0;
+}
+.galeria-imagenes img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px #23294615;
+  background: #ddd;
+  transition: transform 0.2s;
+}
+.galeria-imagenes img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 18px #23294625;
+}
+
+/* Footer */
+footer {
+  background: #232946;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: auto;
+  font-size: 1em;
+}
+
+/* Responsividad */
+@media (min-width: 600px) {
+  .eventos-lista {
+    grid-template-columns: 1fr 1fr;
+  }
+  .evento {
+    min-height: 420px;
+    max-width: 385px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .detalles-evento { flex-direction: row; gap: 2rem; align-items: center;}
+  .detalles-evento img { margin-bottom: 0; margin-right: 1.5rem; width: 330px; min-width: 240px; aspect-ratio: 16/9; height: auto; max-height: 200px;}
+  .detalles-evento > div { text-align: left; }
+  .galeria-imagenes img { width: 210px; height: 140px; }
+}
+@media (min-width: 1024px) {
+  .eventos-lista {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+/* Tablets y móviles */
+@media (max-width: 480px) {
+  .tabs { flex-direction: column; }
+  .tab { justify-content: center; }
+  header { padding: 1.3rem 0.5rem 0.5rem 0.5rem; }
+  .eventos-lista, .detalles-evento, .formulario-reserva, .ofertas, .galeria {
+    padding: 0.7rem;
+    margin: 1rem 0.3rem;
+  }
+  .galeria-imagenes img { width: 98px; height: 70px; }
+  .evento { min-height: 340px; }
+  .evento img { min-height: 120px; }
+}

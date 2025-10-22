@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eventos Destacados</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="tabs">
+    <a href="index.html" class="tab active" title="Inicio">
+      <span>🏠</span>
+      <span class="tab-text">Inicio</span>
+    </a>
+    <a href="detalles-rock.html" class="tab" title="Reserva">
+      <span>📝</span>
+      <span class="tab-text">Reserva</span>
+    </a>
+    <a href="extras.html" class="tab" title="Extras">
+      <span>⭐</span>
+      <span class="tab-text">Extras</span>
+    </a>
+  </nav>
+  <header>
+    <h1>Eventos Destacados</h1>
+    <form class="search-filter">
+      <input type="search" placeholder="Buscar evento..." name="buscar">
+      <select name="categoria">
+        <option value="">Todas las categorías</option>
+        <option value="concierto">Concierto</option>
+        <option value="teatro">Teatro</option>
+        <option value="festival">Festival</option>
+        <option value="deporte">Deporte</option>
+      </select>
+      <button type="submit">Buscar</button>
+    </form>
+  </header>
+  <main>
+    <section class="eventos-lista">
+      <article class="evento">
+        <img src="img/concierto.jpg" alt="Concierto Rock">
+        <div class="evento-info">
+          <h2>Concierto Rock Legends</h2>
+          <p class="categoria">Concierto</p>
+          <p class="descripcion">Vive la mejor música en directo con bandas legendarias.</p>
+          <p class="dato">Fecha: 15/11/2025 · Madrid · Desde 30€</p>
+          <a href="detalles-rock.html" class="btn-detalles">Ver detalles</a>
+        </div>
+      </article>
+      <article class="evento">
+        <img src="img/teatro.jpg" alt="Obra de teatro">
+        <div class="evento-info">
+          <h2>Obra: La Vida es Sueño</h2>
+          <p class="categoria">Teatro</p>
+          <p class="descripcion">Una versión moderna del clásico de Calderón de la Barca.</p>
+          <p class="dato">Fecha: 20/11/2025 · Barcelona · Desde 18€</p>
+          <a href="detalles-teatro.html" class="btn-detalles">Ver detalles</a>
+        </div>
+      </article>
+      <article class="evento">
+        <img src="img/festival.jpg" alt="Festival de verano">
+        <div class="evento-info">
+          <h2>Festival Summer Beats</h2>
+          <p class="categoria">Festival</p>
+          <p class="descripcion">Tres días de música electrónica junto al mar.</p>
+          <p class="dato">Fecha: 01/07/2026 · Valencia · Desde 55€</p>
+          <a href="detalles-festival.html" class="btn-detalles">Ver detalles</a>
+        </div>
+      </article>
+      <article class="evento">
+        <img src="img/deporte.jpg" alt="Partido de fútbol">
+        <div class="evento-info">
+          <h2>Final Copa Nacional</h2>
+          <p class="categoria">Deporte</p>
+          <p class="descripcion">El partido más esperado de la temporada.</p>
+          <p class="dato">Fecha: 05/12/2025 · Sevilla · Desde 25€</p>
+          <a href="detalles-deporte.html" class="btn-detalles">Ver detalles</a>
+        </div>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Eventos Destacados - Iris Pérez Aparicio. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
