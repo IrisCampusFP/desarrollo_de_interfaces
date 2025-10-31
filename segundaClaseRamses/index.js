@@ -17,4 +17,4 @@ enviar.addEventListener("click", (e) =>{
         document.body.style.background="green"
     }
     
-}); generame un formulario basico en html utilizando unicamente elementos de bootstrap (como si copiaras y pegaras los elementos)
+});
