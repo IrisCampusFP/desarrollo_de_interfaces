@@ -15,7 +15,7 @@ html{
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-template-areas: "nombre apellidos"
                          "edad edad"
-                         "opcion dni" 
+                         "opcion contenedorDocumento" 
                          "politica politica";
 }
 
@@ -31,11 +31,8 @@ html{
 .edad{
     grid-area: edad;
 }
-.dni{
-    grid-area: dni;
-}
-.nie{
-    grid-area: nie;
+.contenedorDocumento{
+    grid-area: contenedorDocumento
 }
 .politica{
     grid-area: politica;

@@ -20,7 +20,7 @@ radioDni.addEventListener("click", ()=>{
     contenedorDni.style.display="grid";
     contenedorNie.style.display="none";
 
-    contenedorInputs.style.gridTemplateAreas=" 'nombre apellidos' 'edad edad' 'opcion dni' 'politica politica' ";
+    contenedorInputs.style.gridTemplateAreas=" 'nombre apellidos' 'edad edad' 'opcion contenedorDocumento' 'politica politica' ";
     nie.value="";
 })
 
@@ -28,6 +28,6 @@ radioNie.addEventListener("click", ()=>{
     contenedorDni.style.display="none";
     contenedorNie.style.display="grid";
 
-    contenedorInputs.style.gridTemplateAreas=" 'nombre apellidos' 'edad edad' 'opcion nie' 'politica politica' ";
+    contenedorInputs.style.gridTemplateAreas=" 'nombre apellidos' 'edad edad' 'opcion contenedorDocumento' 'politica politica' ";
     dni.value="";
 })
