@@ -1,0 +1,69 @@
+html{
+    background: #333;
+}
+
+.miFormulario{
+    border: solid 1px red;
+    padding: 10px;
+}
+
+.contenedorInputs{
+    border: solid 2px blue;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* fr significa fracción */
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "nombre apellidos"
+                         "edad edad"
+                         "opcion dni" 
+                         "politica politica";
+}
+
+.nombre{
+    grid-area: nombre;
+}
+.apellidos{
+    grid-area: apellidos;
+}
+.opcion{
+    grid-area: opcion;
+}
+.edad{
+    grid-area: edad;
+}
+.dni{
+    grid-area: dni;
+}
+.nie{
+    grid-area: nie;
+}
+.politica{
+    grid-area: politica;
+}
+
+.inputs{
+    border: solid 1px yellow;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+    /* input{
+        background: black;
+    } */
+}
+
+/* Con . accedes a la clase, con # accedes al id
+   (se usa siempre . ya que en css se suele trabajar 
+   con las clases) */
+   
+/* .nombre{
+    background: red;
+}
+
+.apellidos{
+    background: blue;
+} */
+
+/* .inputs input{
+    background: black;
+} */

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario dinamico</title>
+</head>
+<body>
+    <!-- id: para trabajar con javascript -->
+    <!-- class: para trabajar con el css -->
+    <form class="miFormulario" id="miFormulario">
+        
+        <div class="contenedorInputs">
+            
+            <div class="inputs nombre"> <!-- este div tiene las clases 'inputs' y 'nombre' -->
+                <label for="nombre">Nombre</label> <!-- En el atributo for pones el id del input -->
+                <input type="text" name="nombre" id="nombre">
+            </div>
+            
+            <div class="inputs apellidos"> <!-- este div tiene las clases 'inputs' y 'nombre' -->
+                <label for="apellidos">Apellidos</label> <!-- En el atributo for pones el id del input -->
+                <input type="text" name="apellidos" id="apellidos">
+            </div>
+
+            <div class="inputs edad"> <!-- este div tiene las clases 'inputs' y 'nombre' -->
+                <label for="edad">Edad</label> <!-- En el atributo for pones el id del input -->
+                <input type="number" name="edad" id="edad">
+            </div>
+
+            <div class="inputs opcion">
+                <label for="radioDni">dni</label>
+                <input type="radio" value="dni" name="documento" id="radioDni">
+                <label for="radioNie">nie</label>
+                <input type="radio" value="nie" name="documento" id="radioNie">
+            </div>
+
+            <div id="contenedorDocumentos">
+                <div class="inputs dni" id="contenedorDni"> <!-- este div tiene las clases 'inputs' y 'nombre' -->
+                    <label for="dni">DNI</label> <!-- En el atributo for pones el id del input -->
+                    <input type="text" name="dni" id="dni">
+                </div>
+
+                <div class="inputs nie" id="contenedorNie"> <!-- este div tiene las clases 'inputs' y 'nombre' -->
+                    <label for="nie">NIE</label> <!-- En el atributo for pones el id del input -->
+                    <input type="text" name="nie" id="nie">
+                </div>
+            </div>
+
+            <div class="inputs politica">
+                <label for="politica">Politica</label>
+                <input type="checkbox" value="" name="politica" id="politica">
+            </div>
+        </div>
+        
+    </form>
+
+    <script src="index.js"></script>
+</body>
+</html>
