@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario creado a mano</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form class="formulario" id="formulario">
+        <div class="contenedorInputs">
+            <div class="inputs nombre"></div>
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" id="nombre">
+            </div>
+
+            <div class="inputs apellidos"></div>
+                <label for="apellidos">Apellidos</label>
+                <input type="text" name="nombre" id="nombre">
+            </div>
+            
+            <div class="inputs edad"></div>
+                <label for="edad"></label>
+                <input type="number" name="edad" id="edad">
+            </div>
+            
+            <div class="inputs fecha_nacimiento"></div>
+                <label for="fecha_nacimiento">Fecha de nacimiento</label>
+                <input type="date" name="fecha_nacimiento" id="fecha_nacimiento">
+            </div>
+            
+            <div class="documento"></div>
+                <div class="inputs dni"></div>
+                    <label for="dni">DNI</label>
+                    <input type="text" name="dni" id="dni">
+                </div>
+            
+                <div class="inputs text"></div>
+                    <label for="nie">NIE</label>
+                    <input type="text" name="nie" id="nie">
+                </div>
+            </div>
+            <button type="submit">Guardar datos</button>
+        </div>
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+html {
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.formulario {
+    border: solid 1px magenta;
+    padding: 10px;
+}
+
+.contenedorInputs {
+    border: solid 1px cyan;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: "nombre" "apellidos" "edad" "fecha_nacimiento" "documento";
+    color: palevioletred;
+
+}
+
+.nombre {
+    display: grid;
+    grid-area: nombre;
+}
+
+.apellidos {
+
+    display: grid;
+
+    grid-area: apellidos;
+}
+
+.edad {
+    display: grid;
+
+    grid-area: edad;
+}
+
+.fecha_nacimiento {
+    display: grid;
+    grid-area: fecha_nacimiento;
+}
+
+.documento {
+    display: grid;
+    grid-area: documento;
+}
+
+.inputs {
+    border: solid 1px yellow;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+    input {
+        background: white;
+    }
+
+    label {
+        text-align: center;
+    }
+}
