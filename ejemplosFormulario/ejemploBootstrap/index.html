@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario</title>
+</head>
+
+<body>
+    <form class="formulario" id="formulario">
+        <div class="contenedorInputs">
+
+
+            <div class="mb-3 inputs nombre">
+                <label class="form-label" for="nombre">Nombre</label>
+                <input class="form-control" type="text" name="nombre" value="ramses" id="nombre" required>
+            </div>
+            <div class="mb-3 inputs apellidos">
+                <label class="form-label" for="apellidos">Apellidos</label>
+                <input class="form-control" type="text" name="apellidos" id="apellidos" required>
+            </div>
+            <div class="mb-3 inputs edad">
+                <label class="form-label" for="edad">Edad</label>
+                <input class="form-control" type="text" name="edad" id="edad">
+            </div>
+
+            <div class="mb-3 inputs opcion">
+                <label class="form-label" class="form-label" for="radioDni">DNI</label>
+                <input type="radio" value="dni" name="documento" id="radioDni" checked="checked">
+                <label class="form-label" for="radioNie">NIE</label>
+                <input type="radio" value="nie" name="documento" id="radioNie">
+            </div>
+
+            <div class="dninie">
+
+                <div class="mb-3 inputs dni" id="contenedorDni">
+                    <label class="form-label" for="dni">DNI</label>
+                    <input class="form-control" type="text" name="dni" id="dni">
+                </div>
+                
+                <div class="mb-3 inputs nie" id="contenedorNie">
+                    <label class="form-label" for="nie">NIE</label>
+                    <input class="form-control" type="text" name="nie" id="nie">
+                </div>
+
+            </div>
+
+            <div class="mb-3 inputs politica">
+                <label class="form-label" for="politica">Politica de Privacidad</label>
+                <input checked="checked" type="checkbox" id="politica" value="1" required>
+            </div>
+        
+        </div>
+
+        <button class="btn btn-info mt-2" type="submit">Guardar Datos</button>
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

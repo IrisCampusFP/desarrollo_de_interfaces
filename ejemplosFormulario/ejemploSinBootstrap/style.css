@@ -1,0 +1,76 @@
+html {
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.formulario {
+    border: solid 1px magenta;
+    padding: 10px;
+}
+
+.botonEnviar {
+    margin-top: 10px;
+    margin: 10px auto 0 auto; 
+}
+
+.contenedorInputs {
+    border: solid 1px cyan;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: "nombre apellidos" "edad edad" "opcion opcion" " dninie dninie" "politica politica";
+    color: palevioletred;
+
+}
+
+.dninie {
+    display: grid;
+    grid-area: dninie;
+}
+
+.opcion {
+    display: grid;
+    grid-area: opcion;
+}
+
+.nombre {
+    display: grid;
+    grid-area: nombre;
+}
+
+
+.apellidos {
+
+    display: grid;
+    grid-area: apellidos;
+}
+
+.edad {
+    display: grid;
+    grid-area: edad;
+}
+
+.politica {
+    display: grid;
+    grid-area: politica;
+}
+
+.inputs {
+    border: solid 1px yellow;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+    input {
+        background: white;
+    }
+
+    label {
+        text-align: center;
+    }
+}
