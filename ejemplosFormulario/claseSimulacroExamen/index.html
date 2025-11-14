@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <!-- mis estilos -->
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <main>
+        <form class="form-control" id="form">
+            <!-- email -->
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
+            </div>
+
+            <!-- nombre -->
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="nombre" aria-describedby="nombreHelp"
+                    placeholder="Ingrese nombre" required>
+            </div>
+
+            <!-- apellidos -->
+            <div class="mb-3">
+                <label for="apellidos" class="form-label">Apellidos</label>
+                <input type="text" class="form-control" id="apellidos" aria-describedby="apellidosHelp"
+                    placeholder="Ingrese apellidos" required>
+            </div>
+
+            <!-- DNI -->
+            <div class="mb-3">
+                <label for="dni" class="form-label">DNI</label>
+                <input type="text" class="form-control" id="dni" aria-describedby="dniHelp" 
+                placeholder="Ingrese dni" required>
+            </div>
+
+            <!-- fecha nacimiento -->
+            <div class="mb-3">
+                <label for="fechaNacimiento" class="form-label">Fecha Nacimiento</label>
+                <input type="date" class="form-control" id="fechaNacimiento" aria-describedby="fechaNacimientoHelp"
+                    placeholder="Ingrese Fecha de nacimiento" required>
+            </div>
+
+            <!-- telefono -->
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Teléfono</label>
+                <input type="tel" class="form-control" id="telefono" aria-describedby="telefonoHelp"
+                    placeholder="Ingrese telefono" required>
+            </div>
+
+
+            <!-- DOMICILIO -->
+
+            <!-- direccion -->
+            <div class="mb-3">
+                <label for="direccion" class="form-label">Dirección</label>
+                <input type="text" class="form-control" id="direccion" aria-describedby="direccionHelp"
+                    placeholder="Ingrese direccion" required>
+            </div>
+            <!-- ciudad -->
+            <div class="mb-3">
+                <label for="ciudad" class="form-label">Ciudad</label>
+                <input type="text" class="form-control" id="ciudad" aria-describedby="ciudadHelp"
+                    placeholder="Ingrese ciudad" required>
+            </div>
+            <!-- codigo postal -->
+            <div class="mb-3">
+                <label for="codigoPostal" class="form-label">Código Postal</label>
+                <input type="text" class="form-control" id="codigoPostal" aria-describedby="codigoPostalHelp"
+                    placeholder="Ingrese codigo postal" required>
+            </div>
+
+
+            <!-- ciclo formativo -->
+            <div class="mb-3">
+                <select class="form-select" aria-label="Default select example" required>
+                    <option selected>ciclo formativo</option>
+                    <option value="1">dam</option>
+                    <option value="2">daw</option>
+                    <option value="3">asir</option>
+                </select>
+            </div>
+
+            <!-- contraseña -->
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label" required>Contraseña</label>
+                <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputPassword2" class="form-label" required>Repetir contraseña</label>
+                <input type="password" class="form-control" id="exampleInputPassword2">
+            </div>
+
+            <!-- politica -->
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="politica" required>
+                <label class="form-check-label" for="politica">Acepto las politicas</label>
+            </div>
+            <button type="submit" class="btn btn-primary" id="boton" disabled>Submit</button>
+        </form>
+    </main>
+
+    <!-- js bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <!-- mi js -->
+    <script src="index.js"></script>
+</body>
+
+</html>
