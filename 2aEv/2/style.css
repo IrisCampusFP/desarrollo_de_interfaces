@@ -1,0 +1,169 @@
+html {
+    width: 100%;
+    height: 100%;
+
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 80px 600px auto 150px;
+    grid-template-areas:
+        "nav"
+        "header"
+        "main"
+        "footer";
+
+}
+
+.nav {
+    display: grid;
+    grid-area: nav;
+    background-color: white;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.nav ul li {}
+
+.nav ul li a {}
+
+.header {
+
+    display: grid;
+    grid-area: header;
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+main{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "section1 sider" 
+    "section2 sider"
+    "section3 sider";
+}
+
+.section1{
+    grid-area: section1;
+    display: grid;
+}
+.section2{
+    grid-area: section2;
+    display: grid;
+}
+.section3{
+    grid-area: section3;
+    display: grid;
+}
+.sider{
+    grid-area: sider;
+    display: grid;
+}
+
+
+.main {
+    display: grid;
+    grid-area: main;
+    border: solid 1px black;
+
+
+
+}
+
+.section {
+
+    width: 100%;
+    height: 100%;
+}
+
+.article {
+
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+
+    display: grid;
+    grid-area: footer;
+    border: solid 1px black;
+}
+
+section {
+    border: 1px solid red;
+}
+
+/* SECTION 1 */
+
+.section1 article{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 30% 70%;
+    grid-template-areas:
+    "titulo imagen"
+    "texto imagen";
+}
+
+.section1 .titulo{
+    display: grid;
+    grid-area: titulo;
+}
+
+.section1 .texto{
+    display: grid;
+    grid-area: texto;
+}
+
+.section1 .imagen{
+    display: grid;
+    grid-area: imagen;
+}
+
+.section1 .imagen img{
+    width: 100%;
+}
+
+/* SECTION 2 */
+.section2 article{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 30% 70%;
+    grid-template-areas:
+    "titulo imagen"
+    "texto imagen";
+}
+
+.section2 .titulo{
+    display: grid;
+    grid-area: titulo;
+}
+
+.section2 .texto{
+    display: grid;
+    grid-area: texto;
+}
+
+.section2 .imagen{
+    display: grid;
+    grid-area: imagen;
+}
+
+.section2 .imagen img{
+    width: 100%;
+}
