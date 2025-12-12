@@ -74,12 +74,12 @@ section{
 }
 
 .cuadrado6{
-    width: 300px;
+    width: 284px;
     height: 200px;
     border-bottom: rgb(173, 0, 212) 1px solid;
     position: relative;
     bottom: 150px;
-    right: 200px;
+    right: 192px;
 }
 
 
@@ -101,4 +101,101 @@ section{
     position: relative;
     bottom: 10px;
     right: 200px;
+}
+
+.triangulo2{
+    transform: rotate(180deg);
+    position: relative;
+    bottom: 600px;
+    right: 180px;
+}
+
+
+.sectionEj5{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    "a1 a2 a3 a4 a4 a4 a5"
+    "a6 a6 a6 a6 a7 a8 a5"
+    "a9 a10 a10 a10 a10 a10 a10"
+    "a9 a11 a11 a11 a11 a11 a11"
+    "a9 a12 a12 a12 a12 a12 a12"
+    "a9 a13 a13 a13 a13 a13 a13";
+}
+
+.cuadro{
+    border: rgb(17, 223, 255) 1px solid;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.div1{
+    display: grid;
+    grid-area: a1;
+}
+
+.div2{
+    display: grid;
+    grid-area: a2;
+}
+
+.div3{
+    display: grid;
+    grid-area: a3;
+}
+
+.div4{
+    display: grid;
+    grid-area: a4;
+}
+
+.div5{
+    display: grid;
+    grid-area: a5;
+}
+
+.div6{
+    display: grid;
+    grid-area: a6;
+}
+
+.div7{
+    display: grid;
+    grid-area: a7;
+}
+
+.div8{
+    display: grid;
+    grid-area: a8;
+}
+
+.div9{
+    display: grid;
+    grid-area: a9;
+}
+
+.div10{
+    display: grid;
+    grid-area: a10;
+}
+
+.div11{
+    display: grid;
+    grid-area: a11;
+}
+
+.div12{
+    display: grid;
+    grid-area: a12;
+}
+
+.div13{
+    display: grid;
+    grid-area: a13;
 }
