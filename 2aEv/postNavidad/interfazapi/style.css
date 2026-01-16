@@ -36,6 +36,11 @@ main{
     grid-area: main;
 }
 
+main section{
+    padding: 30px;
+    background: whitesmoke;
+}
+
 footer{
     display: grid;
     grid-area: footer;
@@ -79,4 +84,35 @@ li:hover{
 
 a:hover{
     color: aqua;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    border: 1px black solid;
+    width: 350px;
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px 1px black; /* Sombra derecha y abajo */
+    transition: 0.7s all ease;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+.card .titulo{
+    text-align: center;
+}
+
+.card .precio{
+    padding: 5px;
+}
+
+img{
+    width: 100%;
 }
