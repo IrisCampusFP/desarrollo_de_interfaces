@@ -43,4 +43,4 @@ app.MapGet("/productos/{id:int}", (int id) =>
 app.Run();
 
 // Modelos
-public record Producto(int Id, string Nombre, decimal Precio, string Categoria, string UrlImagen);
+//public record Producto(int Id, string Nombre, decimal Precio, string Categoria, string UrlImagen);

@@ -1,3 +1,5 @@
+using System.Linq.Expressions;
+
 var constructor = WebApplication.CreateBuilder(args);
 
 constructor.Services.AddCors(opciones => {
@@ -43,6 +45,68 @@ app.MapGet("/productos/{id:int}", (int id) =>
 
 app.MapPost("/productos", (ProductoCrear nuevoProducto) =>
 {
-    if(string.IsNullOrWhiteSpace(nuevoProducto.Nombre))
-        return Results.BadRequest
-})
+    if (string.IsNullOrWhiteSpace(nuevoProducto.Nombre))
+    {
+        return Results.BadRequest("dale un nombre al producto que no tiene");
+    }
+
+    if (nuevoProducto.Precio <= 0)
+    {
+        return Results.BadRequest("el precio no puede ser menor o igual a cero");
+    }
+
+    var productoId = 1; // si no tiene nada no entra a la condi siguiente y quedaria como 1
+    if(listaProductos.Any()) // evalua si la lista tiene elementos
+    {
+        productoId = listaProductos.Max(elementoDeLista => elementoDeLista.Id) + 1;
+    }
+
+    // Creamos el producto
+    var ProductoCreado = new Producto(
+        productoId,
+        nuevoProducto.Nombre,
+        nuevoProducto.Precio,
+        nuevoProducto.Categoria,
+        nuevoProducto.UrlImagen
+    );
+
+    // Lo damos de alta en la listaProductos
+    listaProductos.Add(ProductoCreado);
+    return Results.Created($"/productos/{ProductoCreado.Id}", ProductoCreado);
+});
+
+app.MapPut("/productos", (Producto productoActualizado) =>
+{
+    if (listaProductos.FirstOrDefault(elementoLista => elementoLista.Id == productoActualizado.Id) == null)
+    {
+        return Results.NotFound("producto no encontrado");
+    }
+
+    // sacamos el id del producto que tenemos y vamos a actualizar
+    var index = listaProductos.FindIndex(elementoLista => elementoLista.Id == productoActualizado.Id);
+
+    // cambiamos el producto que tenemos por el que nos está llegando
+    listaProductos[index]=productoActualizado;
+
+    return Results.Ok(productoActualizado);
+});
+
+app.MapDelete("/producto/{id:int}", (int id) =>
+{
+    var producto = listaProductos.FirstOrDefault(elementoLista => elementoLista.Id == id);
+
+    if (producto is null)
+    {
+        return Results.Ok("producto eliminado");
+    }
+
+    listaProductos.Remove(producto);
+    return Results.Ok("producto eliminado");
+});
+
+app.Run();
+
+
+// Modelos
+public record Producto(int Id, string Nombre, decimal Precio, string Categoria, string UrlImagen);
+public record ProductoCrear(int Id, string Nombre, decimal Precio, string Categoria, string UrlImagen);
