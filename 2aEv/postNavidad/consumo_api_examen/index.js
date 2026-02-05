@@ -78,10 +78,20 @@ if(document.getElementById('formulario')){
             ultimoEstudio: document.getElementById('estudioInput').value
         };
 
-        fetch("http://localhost:5159/personas", {
-            method: "PUT",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(persona)
-        }).then(() => location.reload());
+        if(persona.id){ 
+            // EDITAR
+            fetch(`http://localhost:5159/personas/`, {
+                method: "PUT",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(persona)
+            }).then(() => location.reload());
+        } else { 
+            // CREAR
+            fetch("http://localhost:5159/personas", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(persona)
+            }).then(() => location.reload());
+        }
     });
 }
