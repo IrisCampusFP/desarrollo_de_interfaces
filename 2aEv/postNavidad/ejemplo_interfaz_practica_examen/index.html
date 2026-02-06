@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI APLICACIÓN</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">INICIO</a></li>
+            <li><a href="#formularioPersona">CREAR PERSONA</a></li>
+        </ul>
+    </nav>
+
+    <header id="inicio">
+        <h1>MI APLICACIÓN</h1>
+    </header>
+
+    <main>
+        <section class="contenedor" id="contenedor"></section>
+
+        <section id="formularioPersona">
+            <fieldset>
+                <legend>NUEVA PERSONA</legend>
+
+                <form id="formulario">
+
+                    <input type="hidden" id="idInput">
+
+                    <div>
+                        <label for="nombreInput">Nombre</label>
+                        <input type="text" id="nombreInput">
+                    </div>
+
+                    <div>
+                        <label for="apellidosInput">Apellidos</label>
+                        <input type="text" id="apellidosInput">
+                    </div>
+
+                    <div>
+                        <label for="edadInput">Edad</label>
+                        <input type="number" id="edadInput">
+                    </div>
+
+                    <div>
+                        <label for="dniInput">DNI</label>
+                        <input type="text" id="dniInput">
+                    </div>
+
+                    <div>
+                        <label for="lugarInput">Lugar de nacimiento</label>
+                        <input type="text" id="lugarInput">
+                    </div>
+
+                    <div>
+                        <label for="paisInput">País de nacimiento</label>
+                        <input type="text" id="paisInput">
+                    </div>
+
+                    <div>
+                        <label for="direccionInput">Dirección</label>
+                        <input type="text" id="direccionInput">
+                    </div>
+
+                    <div>
+                        <label for="estudioInput">Último estudio</label>
+                        <input type="text" id="estudioInput">
+                    </div>
+
+                    <div>
+                        <button type="submit">Enviar</button>
+                    </div>
+
+                </form>
+            </fieldset>
+        </section>
+    </main>
+
+    <footer>
+        <img src="OIP.webp" alt="">
+        © 2026 Iris Pérez Aparicio. Todos los derechos reservados.
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>

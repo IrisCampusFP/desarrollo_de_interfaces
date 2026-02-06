@@ -11,14 +11,14 @@ if(document.getElementById("contenedor")){
                     contenedor.innerHTML += `
                         <div class="card">
                             <div class="titulo">
-                                <h2>${persona.id}. ${persona.nombre} ${persona.apellidos}</h2>
+                                <h2>${persona.id} ${persona.nombre} ${persona.apellidos}</h2>
                             </div>
                             <div class="info">
                                 <p>DNI: ${persona.dni}</p>
                                 <p>Edad: ${persona.edad}</p>
-                                <p>Lugar de nacimiento: ${persona.lugarNacimiento}, ${persona.paisNacimiento}</p>
+                                <p>Lugar: ${persona.lugarNacimiento}, ${persona.paisNacimiento}</p>
                                 <p>Dirección: ${persona.direccion}</p>
-                                <p>Último Estudio: ${persona.ultimoEstudio}</p>
+                                <p>Estudios: ${persona.ultimoEstudio}</p>
                             </div>
                             <div class="botones">
                                 <button style="background:green;" onClick="editarPersona('${persona.dni}')">EDITAR</button>

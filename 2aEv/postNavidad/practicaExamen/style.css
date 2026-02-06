@@ -1,13 +1,13 @@
-html, body{
-    width: 100%;
+html,body{
     height: 100%;
-    margin: 0;
+    width: 100%;
     padding: 0;
+    margin: 0;
 }
 
 body{
     display: grid;
-    grid-template-rows: 100px 300px auto 150px;
+    grid-template-rows: 100px 200px auto 200px;
     grid-template-columns: 100%;
     grid-template-areas: 
     "nav"
@@ -16,27 +16,26 @@ body{
     "footer";
 }
 
+
 nav{
     display: grid;
     grid-area: nav;
-
-    background-color: #333;
-    border-bottom: #000000 solid 1px;
 }
 
 header{
     display: grid;
     grid-area: header;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #e7e7e7;
 }
 
 main{
     display: grid;
     grid-area:main;
-    
+}
+
+
+footer{
+    display: grid;
+    grid-area: footer;
 }
 
 main section{
@@ -44,14 +43,6 @@ main section{
     background: whitesmoke;
 }
 
-footer{
-    display: grid;
-    grid-area: footer;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-}
 
 footer img{
     width: 150px;
@@ -89,20 +80,22 @@ a:hover{
     color: aqua;
 }
 
+
+
+
 .contenedor{
     display: flex;
-    justify-content: center;
+    justify-content: start;
     flex-wrap: wrap;
     gap: 20px;
 }
 
 .card{
     border: 1px black solid;
-    width: 390px;
+    width: 350px;
     border-radius: 7px;
     box-shadow: 6px 4px 6px 2px black;
     transition: 0.7s all ease;
-    padding: 25px;
 }
 
 .card:hover{
@@ -111,7 +104,6 @@ a:hover{
 
 .card .titulo{
     text-align: center;
-    margin-bottom: 25px;
 }
 
 
@@ -133,33 +125,9 @@ img{
 .botones button{
     background-color: red;
     color: white;
-    margin: 4px;
-    padding: 10px 16px;
-    font-size: 14px;
-    border-radius: 5px;
-    cursor: pointer;
 }
 
-.botones button:hover {
-    transform: scale(1.05);        /* agranda ligeramente el botón */
-}
-
-form div {
+form div{
     display: flex;
     flex-direction: column;
-    margin-bottom: 15px;
-}
-
-fieldset {
-    width: 80%;
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 20px;
-    font-size: 18px;
-}
-
-
-form input, form button {
-    font-size: 16px;
-    padding: 8px;
 }

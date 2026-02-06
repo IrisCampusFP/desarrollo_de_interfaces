@@ -1,0 +1,138 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 100px 300px auto 150px;
+    grid-template-areas:
+        "nav"
+        "header"
+        "main"
+        "footer";
+}
+
+/* NAV */
+
+nav{
+    grid-area: nav;
+    background-color: #333;
+    border-bottom: 1px solid black;
+}
+
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul a{
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 1s all ease;
+}
+
+nav ul li{
+    transition: 1s all ease;
+}
+
+li:hover{
+    transform: scale(1.1);
+}
+
+a:hover{
+    color: aqua;
+}
+
+/* HEADER */
+
+header{
+    grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: white;
+}
+
+/* MAIN */
+
+main{
+    grid-area: main;
+}
+
+main section{
+    padding: 30px;
+    background: whitesmoke;
+}
+
+/* CONTENEDOR CARDS */
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* CARD */
+
+.card{
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px 1px black;
+    transition: 0.7s all ease;
+    padding: 20px;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+.card .titulo{
+    text-align: center;
+}
+
+.card .precio{
+    padding: 5px;
+}
+
+/* FORMULARIO */
+
+fieldset{
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+/* FOOTER */
+
+footer{
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer img{
+    width: 150px;
+    height: auto;
+}
+
+img{
+    width: 100%;
+}

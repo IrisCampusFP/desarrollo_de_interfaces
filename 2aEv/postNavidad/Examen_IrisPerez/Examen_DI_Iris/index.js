@@ -31,7 +31,7 @@ if(document.getElementById("contenedor")){
         });
 
     function eliminarPersona(id){
-        if(confirm("Quieres eliminar la persona?")){
+        if(confirm("¿Estás seguro/a de que quieres eliminar esta persona?")){
             fetch(`http://localhost:5159/personas/${id}`, {
                 method: "DELETE"
             }).then(() => location.reload());
